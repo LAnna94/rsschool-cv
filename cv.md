@@ -1,7 +1,10 @@
-<p style="text-align: center;"> ## Hanna Lakhmotka </p>
+<div style="text-align: center;">
+
+# Hanna Lakhmotka
 ## Junior Frontend Developer
 ### +1 (224)2584925 | annalahmotko@gmail.com | [LinkidIn](https://www.linkedin.com/in/anna-lahmotko/) | [GitHub](https://github.com/LAnna94)
 
+</div>
 ----
 
 ## Summary
@@ -32,6 +35,7 @@ Junior Frontend Developer with a background in PPC, where I gained technical exp
 **The Hashtag Generator from CODEWARS:** *The marketing team is spending way too much time typing in hashtags. Let's help them with our own Hashtag Generator! It must start with a hashtag (#). All words must have their first letter capitalized. If the final result is longer than 140 chars it must return false. If the input or the result is an empty string it must return false.*
 
 ```
+
 function generateHashtag (str) {
   if (str === "") {
     return false
@@ -56,6 +60,7 @@ function generateHashtag (str) {
 
   return hashtag
 }
+
 ```
 
 ----
@@ -65,7 +70,7 @@ function generateHashtag (str) {
 ### Yandex Practicum (courses)
 Some projects completed during training (All work is reviewed by mentors and goes through code review.):
 
-1. Project: "How to Learn"
+1. **Project: "How to Learn"**
 
 Functionality: Single-page informational website
 
@@ -73,7 +78,8 @@ Technologies: HTML, CSS, BEM
 
 Project link: https://github.com/LAnna94/how-to-learn
 
-2. Project: "Russian Travel"
+
+2. **Project: "Russian Travel"**
 
 Functionality: Single-page website, adapted for common screen resolutions
 
@@ -81,7 +87,8 @@ Technologies: HTML, CSS, responsive design, Grid Layout, Flexbox, BEM
 
 Project link: https://github.com/LAnna94/russian-travel
 
-3. Project: Mesto
+
+3. **Project: Mesto**
 
 Functionality: Add/remove cards, edit profile information, "Like" feature with like counter, API and server integration
 

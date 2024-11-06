@@ -1,18 +1,24 @@
 # Hanna Lakhmotka
 ## Junior Frontend Developer
 ### +1 (224)2584925 | annalahmotko@gmail.com | [LinkidIn](https://www.linkedin.com/in/anna-lahmotko/) | [GitHub](https://github.com/LAnna94)
-***
+
+----
+
 ## Summary
 Junior Frontend Developer with a background in PPC, where I gained technical experience through site audits and configuring web analytics that required code work. My interest in web development led me to complete courses at Yandex Practicum and RS School, where I built a solid foundation and a portfolio of projects. While I continue expanding my skills in this dynamic field, I am eager to apply my knowledge to real-world projects and deliver high-quality, user-centered solutions.
-***
+
+----
+
 ## Skills
-|<!-- -->         |<!-- -->     |<!-- -->
-:-----------      |:----------  |:---------------------- 
-JavaScript        | HTML5       | CSS3 (Bootstrap, SASS, BEM)
-React             | Node.js     | TypeScript 
-Figma, Photoshop  | Git, GitHub | VS Code 
-MongoDB           | Express.js  | Postman
-***
+|<!-- -->         |<!-- -->     |<!-- -->|
+:-----------      |:----------  |:---------------------- |
+JavaScript        | HTML5       | CSS3 (Bootstrap, SASS, BEM)|
+React             | Node.js     | TypeScript |
+Figma, Photoshop  | Git, GitHub | VS Code |
+MongoDB           | Express.js  | Postman |
+
+----
+
 ## Code examples
 **The Hashtag Generator from CODEWARS:** *The marketing team is spending way too much time typing in hashtags. Let's help them with our own Hashtag Generator! It must start with a hashtag (#). All words must have their first letter capitalized. If the final result is longer than 140 chars it must return false. If the input or the result is an empty string it must return false.*
 
@@ -44,7 +50,9 @@ function generateHashtag (str) {
 }
 
 ```
-***
+
+----
+
 ## Work Experience
 ### Yandex Practicum (courses)
 Some projects completed during training (all work is reviewed by mentors and goes through code review.):
@@ -83,12 +91,16 @@ Full cycle of work on digital advertiSsing campaigns: initial account setup and 
 Collaborated closely with the project manager.
 
 Tools and applications: Google Tag Manager, Google Analytics, Photoshop, HTML, CSS.
-***
+
+----
+
 ## Education
 Bachelor Degree in Information & Communications Technology, BSU (2016)
 
 Yandex Practicum (2022)
-***
+
+----
+
 ## Languages
 * Russian (Native)
 * English (B2)
